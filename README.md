@@ -14,5 +14,5 @@
 ### 아이디어
 * 2차원 좌표로 생각하기
 * 레퍼런스 활용하기
-* BFS: 너비우선탐색, `deque()`, `popleft()` or `pop(0)`
+* BFS: 너비우선탐색, `deque()`, `popleft()` or `pop(0)` 
 * DFS: 깊이우선탐색, `list()`, `pop()` 
