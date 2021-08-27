@@ -10,7 +10,7 @@
 * `continue`: 실행코드 건너뛰기
 * `break`: 반복문 끝내기
 * `zip`: iterable한 자료형 묶기
-* `list(itertools.product(*cases))`: 
+* `list(itertools.product(*cases))`: 곱집합
 
 ### 아이디어
 * 2차원 좌표로 생각하기 
