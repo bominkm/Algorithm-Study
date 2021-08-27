@@ -23,3 +23,5 @@
 * `ASC`: 오름차순 정렬
 * `DISTINCT`: 중복 제거
 * `HAVING`: 조건
+* `HOUR`: 시간
+* `BETWEEN A AND B`: A와 B 사이
