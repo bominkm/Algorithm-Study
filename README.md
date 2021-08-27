@@ -11,6 +11,7 @@
 * `break`: 반복문 끝내기
 * `zip`: iterable한 자료형 묶기
 * `list(itertools.product(*list))`: 곱집합
+* `list.count(조건)`: 조건을 만족하는 리스트 원소 
 
 ### 아이디어
 * 2차원 좌표로 생각하기 
