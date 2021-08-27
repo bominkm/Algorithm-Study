@@ -25,3 +25,4 @@
 * `HAVING`: 조건
 * `HOUR`: 시간
 * `BETWEEN A AND B`: A와 B 사이
+* `LIKE "%문자%": "문자"를 포함하는 문자
