@@ -29,4 +29,4 @@
 * `BETWEEN A AND B`: A와 B 사이
 * `LIKE "%A%"`: "A"를 포함하는 문자
 * `CASE WHEN 조건 THEN 값1 ELSE 값2 END AS 변수`: 조건문
-* `DATE_FORMAT(DATETIME 변수, '%Y-%m-%d')`: 날짜 변환
+* `DATE_FORMAT(DATETIME 변수, '%Y-%m-%d')`: 날짜 변환 
