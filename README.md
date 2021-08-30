@@ -12,6 +12,7 @@
 * `zip`: iterable한 자료형 묶기
 * `list(itertools.product(*list))`: 곱집합
 * `list.count(조건)`: 조건을 만족하는 리스트 원소 
+* `list(map(함수, 리스트))`: 리스트에 함수 
 
 ### 아이디어
 * 2차원 좌표로 생각하기 
