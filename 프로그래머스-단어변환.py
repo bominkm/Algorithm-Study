@@ -8,7 +8,6 @@ def bfs(begin, target, words, visited):
         current_word = stack.pop()
         
         # target 단어인 경우
-        current_word = stack.pop()
         if current_word == target:
             return count
 
