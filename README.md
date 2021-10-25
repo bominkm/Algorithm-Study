@@ -20,6 +20,10 @@
 * BFS: 너비우선탐색, `deque()`, `popleft()` or `pop(0)` 
 * DFS: 깊이우선탐색, `list()`, `pop()` 
 
+### 데이터 분석
+* groupby
+* pivot_table
+
 ### SQL 함수
 * `LIMIT`: 출력 개수 선정
 * `DESC`: 내림차순 정렬
